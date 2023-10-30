@@ -13,6 +13,6 @@ public class Curs5Homework {
         6) scrieti o functie care primeste un string cu o fraza (mai multe propozitii despartite prin punct). Printati fiecare propozitie pe o linie noua
      */
     public static void main(String[] args) {
-        System.out.println("Helloafafafaf  world!");
+        System.out.println("Hello tetetetet world!");
     }
 }
